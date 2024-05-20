@@ -2,7 +2,7 @@
 Agent Based Modelling for two-step communication flow (Netlogo)
 
 ## HOW TO USE?
-Download the .nlogo file of the project from [here](https://github.com/aditigarg07/two-step-communication/blob/main/Two%20step%20communication.nlogo). Visit [Netlogo web](http://www.netlogoweb.org/launch) and select the downloaded file after clicking on the _Choose File_ button next to _Upload a model_: option. The screen should look like this -
+Download the .nlogo file of the project from [here](https://github.com/aditigarg007/two-step-communication/blob/main/Two%20step%20communication.nlogo). Visit [Netlogo web](http://www.netlogoweb.org/launch) and select the downloaded file after clicking on the _Choose File_ button next to _Upload a model_: option. The screen should look like this -
 ![Screenshot 2021-09-17 at 2 41 18 PM](https://user-images.githubusercontent.com/39182712/133757219-b7115617-6ebb-43c6-b3b9-a0ee90a5771b.png)
 
 ## WHAT IS IT?
